@@ -1,4 +1,4 @@
-// A simple GUI Calculator with Java
+// A simple Calculator with Java
 // Author: Joel Tanko
 // Matric No. U23/CS/1043
 // Email: 7thogofe@gmail.com
